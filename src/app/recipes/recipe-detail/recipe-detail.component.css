@@ -1,0 +1,15 @@
+.card {
+    width: 40rem;
+    margin-bottom: 30px;
+    border: 1px solid rgba(66, 66, 66, 0.329); 
+    padding: 12px; 
+    border-radius: 12px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.indent {
+    padding-left: 4px
+}
